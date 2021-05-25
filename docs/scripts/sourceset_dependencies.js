@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":krypton-api:dokkaHtmlPartial/main":[],":krypton-server:dokkaHtmlPartial/main":[],":krypton-bootstrap:dokkaHtmlPartial/main":[]}'

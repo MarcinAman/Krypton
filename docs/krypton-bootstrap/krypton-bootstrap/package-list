@@ -1,0 +1,11 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:org.kryptonmc.bootstrap////PointingToDeclaration/krypton-bootstrap/org.kryptonmc.bootstrap/index.html
+$dokka.location:org.kryptonmc.bootstrap/ApplicationConfigurator///PointingToDeclaration/krypton-bootstrap/org.kryptonmc.bootstrap/-application-configurator/index.html
+$dokka.location:org.kryptonmc.bootstrap/ApplicationConfigurator/configure/#/PointingToDeclaration/krypton-bootstrap/org.kryptonmc.bootstrap/-application-configurator/configure.html
+$dokka.location:org.kryptonmc.bootstrap/DummyRelocator///PointingToDeclaration/krypton-bootstrap/org.kryptonmc.bootstrap/-dummy-relocator/index.html
+$dokka.location:org.kryptonmc.bootstrap/DummyRelocator/relocate/#java.io.File#java.io.File/PointingToDeclaration/krypton-bootstrap/org.kryptonmc.bootstrap/-dummy-relocator/relocate.html
+$dokka.location:org.kryptonmc.bootstrap/Main///PointingToDeclaration/krypton-bootstrap/org.kryptonmc.bootstrap/-main/index.html
+$dokka.location:org.kryptonmc.bootstrap/Main/main/#java.lang.String[]/PointingToDeclaration/krypton-bootstrap/org.kryptonmc.bootstrap/-main/main.html
+org.kryptonmc.bootstrap
+
